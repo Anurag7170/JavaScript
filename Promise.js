@@ -76,18 +76,7 @@ rejected: meaning that the operation failed.
 // .catch((error)=>{console.log(error)})
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+// {****************************** fetch using async await****************************}
 // const getuser = async()=>{
 //     const response = await fetch("https://randomuser.me/api/");
 //     const data = await response.json();
